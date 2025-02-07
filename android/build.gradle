@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
-
+    namespace 'ru.hoxa.android_push_permissions'
     defaultConfig {
         minSdkVersion 16
     }
